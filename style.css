@@ -1,0 +1,23 @@
+body {
+    color:aliceblue;
+    background-color: darkviolet;
+}
+
+.heading {
+    width: 80% ;
+    font-size: 25px;
+    font-variant: small-caps;
+    word-spacing: 15px;
+    letter-spacing: 2px;
+}
+
+.name_of_object, #result_object_name, #result_object_accuracy {
+    color:lightcyan;   
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed powderblue;
+}
+
